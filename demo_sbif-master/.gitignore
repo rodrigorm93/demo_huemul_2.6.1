@@ -1,0 +1,12 @@
+*.class
+*.log
+/target/
+*.jar
+.cache-tests
+.cache-main
+target/surefire-reports/TEST-org.scalatest.junit.JUnitWrapperSuite.xml
+target/surefire-reports/TestSuiteReport.txt
+.cache-main
+.cache-tests
+.cache-tests
+.cache-tests
