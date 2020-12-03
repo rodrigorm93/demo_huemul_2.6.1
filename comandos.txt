@@ -1,0 +1,2 @@
+spark-submit --master yarn --jars huemul-bigdatagovernance-2.6.jar,huemul-sql-decode-1.0.jar,demo_settings-2.6.1.jar,demo_catalogo-2.6.1.jar,postgresql-9.4.1212.jar --class com.yourcompany.catalogo.process_negocio demo_sbif-2.6.1.jar environment=production,registerInControl=false,ano=2018,mes=6
+
