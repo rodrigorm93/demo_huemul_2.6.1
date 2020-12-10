@@ -1,0 +1,10 @@
+CUOTA     PRESTAMOS EN CUOTAS                   
+CTACTE    CUENTA CORRIENTE                      
+LINCRED   LINEA DE CREDITO                      
+TDC       TARJETA DE CREDITO                    
+TDD       TARJETA DE DEBITO                     
+LEASING   LEASING                               
+DEPOSITO  DEPOSITOS A PLAZO                     
+CTAAHORRO CUENTAS DE AHORRO                     
+OTROS     OTROS PRODUCTOS                       
+TODOS     TODOS LOS PRODUCTOS                   
